@@ -59,5 +59,3 @@ Your role is to provide **first-level technical support** to employees who use *
 4. **Google Gemini Chat Model**
 
    * Generates responses for the chatbot.
-
-That’s it — a clean, minimal demo of chat behavior in n8n.
