@@ -149,8 +149,8 @@ You can:
 
 **File Path Description** 
 ```markdown 
-Tickets are stored in the directory `day 2/project 6/tickets/`.
-Example path: "day 2/project 6/tickets/MHGPYF9K.txt"`
+Tickets are stored in the directory `day 2/project 7/tickets/`.
+Example path: "day 2/project 7/tickets/MHGPYF9K.txt"`
 ``` 
 
 ---
@@ -174,8 +174,8 @@ Example path: "day 2/project 6/tickets/MHGPYF9K.txt"`
 
 **File Path Description** 
 ```markdown
-Tickets are stored in the directory `day 2/project 6/tickets/`.
-Example path: "day 2/project 6/tickets/MHGPYF9K.txt"
+Tickets are stored in the directory `day 2/project 7/tickets/`.
+Example path: "day 2/project 7/tickets/MHGPYF9K.txt"
 ```
 **File Content Description** 
 ```markdown
@@ -262,7 +262,7 @@ Use the following queries to test the chatbot’s capabilities:
 | **Resource**       | File                                           |
 | **Operation**      | Create                                         |
 | **Repository**     | demo-building-ai-workflows-and-agents-with-n8n |
-| **File Path**      | `day 2/project 6/tickets/{{ $json.ID }}.txt`         |
+| **File Path**      | `day 2/project 7/tickets/{{ $json.ID }}.txt`         |
 
 **File Content**:
 
