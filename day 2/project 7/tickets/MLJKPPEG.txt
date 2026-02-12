@@ -1,0 +1,1 @@
+User Name: Karen  Submitted: 2026-02-12T15:48:08.153+01:00  Description: User's laptop was stolen. This is a critical security incident requiring immediate attention.  Status: Open Prio: Urgent
